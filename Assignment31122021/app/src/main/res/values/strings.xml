@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment31122021</string>
+    <string name="user_name">User name: %1$s</string>
+    <string name="name">Name: %1$s</string>
+    <string name="email">Email: %1$s</string>
+    <string name="address">Address: %1$s</string>
+    <string name="phone">Phone: %1$s</string>
+    <string name="company">Company: %1$s</string>
+</resources>
